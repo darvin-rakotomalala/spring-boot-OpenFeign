@@ -21,7 +21,7 @@ Une grande chose à propos de l'utilisation de Feign est que nous n'avons pas à
 ### Exemples
 ---
 - `socle-spring-data-jpa` un microservice CRUD qui s'exécute sur le port 8081.
-- `clientFeign-mcs` un client Spring WebClient qui s'exécute sur le port 8082 et utlise les API REST de `socle-spring-data-jpa`. 
+- `clientFeign-mcs` un client Spring WebClient qui s'exécute sur le port 8082 et utilise les API REST de `socle-spring-data-jpa`. 
 
 ### Exécuter et tester le projet
 ---
